@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// e31fafbcad2e40b05747342fbda620d6
+
 export default class SearchBar extends Component {
   constructor(props) {
     super(props);
